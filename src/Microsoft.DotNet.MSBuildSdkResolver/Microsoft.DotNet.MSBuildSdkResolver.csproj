@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Version>$(SdkVersion)</Version>
-    <TargetFrameworks>netstandard1.5;net46</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;net46</TargetFrameworks>
     <TargetFrameworks Condition="'$(OS)' != 'Windows_NT'">netstandard1.5</TargetFrameworks>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <RuntimeIdentifiers>win-x86;win-x64</RuntimeIdentifiers>

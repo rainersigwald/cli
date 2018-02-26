@@ -2,12 +2,12 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <MicrosoftAspNetCoreAllPackageVersion>2.1.0-preview1-28263</MicrosoftAspNetCoreAllPackageVersion>
-    <MicrosoftNETCoreAppPackageVersion>2.1.0-preview1-26116-04</MicrosoftNETCoreAppPackageVersion>
+    <MicrosoftNETCoreAppPackageVersion>2.1.0-preview2-26130-06</MicrosoftNETCoreAppPackageVersion>
     <MicrosoftNETCoreDotNetHostResolverPackageVersion>$(MicrosoftNETCoreAppPackageVersion)</MicrosoftNETCoreDotNetHostResolverPackageVersion>
-    <MicrosoftBuildPackageVersion>15.6.81</MicrosoftBuildPackageVersion>
+    <MicrosoftBuildPackageVersion>15.7.47-preview-gb19a0906d1</MicrosoftBuildPackageVersion>
     <MicrosoftBuildFrameworkPackageVersion>$(MicrosoftBuildPackageVersion)</MicrosoftBuildFrameworkPackageVersion>
     <MicrosoftBuildRuntimePackageVersion>$(MicrosoftBuildPackageVersion)</MicrosoftBuildRuntimePackageVersion>
-    <MicrosoftBuildLocalizationPackageVersion>$(MicrosoftBuildPackageVersion)</MicrosoftBuildLocalizationPackageVersion>
+    <MicrosoftBuildLocalizationPackageVersion>15.7.0-preview-000047-private</MicrosoftBuildLocalizationPackageVersion>
     <MicrosoftBuildUtilitiesCorePackageVersion>$(MicrosoftBuildPackageVersion)</MicrosoftBuildUtilitiesCorePackageVersion>
     <MicrosoftFSharpCompilerPackageVersion>10.1.2-rtm-180131-0</MicrosoftFSharpCompilerPackageVersion>
     <MicrosoftCodeAnalysisCSharpPackageVersion>2.7.0-beta3-62529-06</MicrosoftCodeAnalysisCSharpPackageVersion>
